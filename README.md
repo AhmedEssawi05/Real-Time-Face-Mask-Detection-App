@@ -8,3 +8,9 @@ and recieves camera input and in turn determines if all in the frame are wearing
 **Purpose** Created during my time interning at SLB, utilized in real-time to detect if employees & visitors of the building were wearing face-masks
 as per the policy at the time
 
+**Demo Video**
+https://youtu.be/BsvcjhNpjAY
+
+**Dataset Link**
+
+
